@@ -3,7 +3,8 @@
     "description": "Centre mouse to the newly focused window",
     "uuid": "centre.mouse@dotrar.tech",
     "url" : "https://github.com/Dotrar/gnome-centre-focus",
-    "shell-version": [
+    "shell-version": [  
+        "43",
         "42",
         "41",
         "40",
